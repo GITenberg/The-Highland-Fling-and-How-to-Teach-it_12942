@@ -1,5 +1,8 @@
 _repo: The-Highland-Fling-and-How-to-Teach-it_12942
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grant, Horatio N.
@@ -8,6 +11,8 @@ creator:
 description: This short pamphlet is devoted to the Highland Fling, described as a
   popular fancy dance, especially appropriate for children. The author gives four
   exercises and descriptions for eleven steps, many with multiple parts.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12942#The-Highland-Fling-and-How-to-Teach-it
 gutenberg_issued: '2004-07-19'
 gutenberg_type: Text
 identifiers:
